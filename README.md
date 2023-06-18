@@ -86,4 +86,6 @@ The initial django page can be seen at 127.0.0.1:8000
 
 ## Usage <a name = "usage"></a>
 
-Learning purposes only.
+- Create, update, delete & manage user profiles
+- Authenticate with username and password
+- Manage user profile feed items
